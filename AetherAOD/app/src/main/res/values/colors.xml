@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- AMOLED Black -->
+    <color name="amoled_black">#FF000000</color>
+    <color name="amoled_dark_gray">#FF0A0A0A</color>
+    <color name="amoled_light_gray">#FF1A1A1A</color>
+    
+    <!-- Primary Brand Colors -->
+    <color name="primary">#FF6366F1</color>
+    <color name="primary_variant">#FF4F46E5</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary">#FF22D3EE</color>
+    <color name="secondary_variant">#FF06B6D4</color>
+    <color name="on_secondary">#FF000000</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_neon">#FF00FF88</color>
+    <color name="accent_purple">#FF9333EA</color>
+    <color name="accent_blue">#FF3B82F6</color>
+    <color name="accent_red">#FFEF4444</color>
+    <color name="accent_orange">#FFF97316</color>
+    <color name="accent_yellow">#FFEAB306</color>
+    <color name="accent_green">#FF22C55E</color>
+    <color name="accent_pink">#FFEC4899</color>
+    
+    <!-- Background Colors -->
+    <color name="background_primary">#FF000000</color>
+    <color name="background_secondary">#FF0A0A0A</color>
+    <color name="background_tertiary">#FF141414</color>
+    <color name="surface">#FF1A1A1A</color>
+    <color name="surface_variant">#FF262626</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB3B3B3</color>
+    <color name="text_tertiary">#FF666666</color>
+    <color name="text_on_surface">#FFFFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#FF22C55E</color>
+    <color name="warning">#FFEAB306</color>
+    <color name="error">#FFEF4444</color>
+    <color name="info">#FF3B82F6</color>
+    
+    <!-- Clock Style Colors -->
+    <color name="clock_minimal">#FFFFFFFF</color>
+    <color name="clock_neon_primary">#FF00FF88</color>
+    <color name="clock_neon_secondary">#FF00FFFF</color>
+    <color name="clock_nothing">#FFFFFFFF</color>
+    <color name="clock_pixel">#FFE8EAED</color>
+    <color name="clock_analog_gold">#FFD4AF37</color>
+    <color name="clock_matrix">#FF00FF00</color>
+    <color name="clock_rgb_r">#FFFF0000</color>
+    <color name="clock_rgb_g">#FF00FF00</color>
+    <color name="clock_rgb_b">#FF0000FF</color>
+    <color name="clock_elegant">#FFF5F5F5</color>
+    <color name="clock_cinematic">#FFFFFFFF</color>
+    <color name="clock_monochrome">#FFCCCCCC</color>
+    
+    <!-- Edge Lighting Colors -->
+    <color name="edge_light_default">#FF6366F1</color>
+    <color name="edge_light_gradient_start">#FF6366F1</color>
+    <color name="edge_light_gradient_end">#FF22D3EE</color>
+    
+    <!-- Glassmorphism -->
+    <color name="glass_background">#401A1A1A</color>
+    <color name="glass_border">#30FFFFFF</color>
+    
+    <!-- Shadow Colors -->
+    <color name="shadow_light">#10000000</color>
+    <color name="shadow_medium">#20000000</color>
+    <color name="shadow_dark">#40000000</color>
+</resources>
