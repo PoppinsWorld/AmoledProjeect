@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aether AOD</string>
+    <string name="splash_title">Aether AOD</string>
+    <string name="splash_subtitle">Premium Always-On Display</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_1_title">Beautiful AMOLED Display</string>
+    <string name="onboarding_1_desc">Stunning always-on display with deep blacks and vibrant colors optimized for AMOLED screens.</string>
+    <string name="onboarding_2_title">Custom Clock Styles</string>
+    <string name="onboarding_2_desc">Choose from multiple premium clock designs inspired by Samsung, Pixel, and Nothing OS.</string>
+    <string name="onboarding_3_title">Battery Efficient</string>
+    <string name="onboarding_3_desc">Smart burn-in protection and optimized rendering for minimal battery consumption.</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_skip">Skip</string>
+    
+    <!-- Home -->
+    <string name="home_dashboard">Dashboard</string>
+    <string name="home_clocks">Clock Styles</string>
+    <string name="home_themes">Themes</string>
+    <string name="home_settings">Settings</string>
+    <string name="home_preview">Live Preview</string>
+    
+    <!-- Clock Styles -->
+    <string name="clock_minimal_digital">Minimal Digital</string>
+    <string name="clock_futuristic_neon">Futuristic Neon</string>
+    <string name="clock_nothing_os">Nothing OS</string>
+    <string name="clock_pixel">Pixel Inspired</string>
+    <string name="clock_analog_luxury">Analog Luxury</string>
+    <string name="clock_matrix">Matrix Cyber</string>
+    <string name="clock_rgb_gamer">RGB Gamer</string>
+    <string name="clock_elegant_typography">Elegant Typography</string>
+    <string name="clock_cinematic">Large Cinematic</string>
+    <string name="clock_monochrome">Minimal Monochrome</string>
+    
+    <!-- Settings -->
+    <string name="settings_brightness">Brightness</string>
+    <string name="settings_schedule">Schedule</string>
+    <string name="settings_edge_lighting">Edge Lighting</string>
+    <string name="settings_animations">Animations</string>
+    <string name="settings_colors">Colors</string>
+    <string name="settings_fonts">Fonts</string>
+    <string name="settings_position">Position</string>
+    <string name="settings_scale">Scale</string>
+    <string name="settings_12_24_hour">24-Hour Format</string>
+    <string name="settings_burn_in_protection">Burn-in Protection</string>
+    
+    <!-- Schedule -->
+    <string name="schedule_all_day">All Day</string>
+    <string name="schedule_custom">Custom Schedule</string>
+    <string name="schedule_start_time">Start Time</string>
+    <string name="schedule_end_time">End Time</string>
+    <string name="schedule_sunrise_sunset">Sunrise to Sunset</string>
+    
+    <!-- Permissions -->
+    <string name="permission_overlay_title">Display Over Other Apps</string>
+    <string name="permission_overlay_desc">Required for showing the always-on display over other applications.</string>
+    <string name="permission_notification_title">Notification Access</string>
+    <string name="permission_notification_desc">Required for showing notification previews on the AOD.</string>
+    <string name="permission_battery_title">Battery Optimization</string>
+    <string name="permission_battery_desc">Disable battery optimization for continuous AOD functionality.</string>
+    <string name="permission_grant">Grant Permission</string>
+    <string name="permission_granted">Granted</string>
+    
+    <!-- Battery -->
+    <string name="battery_optimization_title">Battery Optimization</string>
+    <string name="battery_optimization_desc">For best AOD experience, please disable battery optimization.</string>
+    <string name="battery_status">Battery Status</string>
+    <string name="battery_efficiency_mode">Efficiency Mode</string>
+    
+    <!-- Edge Lighting -->
+    <string name="edge_light_enabled">Edge Lighting Enabled</string>
+    <string name="edge_light_color">Edge Color</string>
+    <string name="edge_light_duration">Duration</string>
+    <string name="edge_light_style">Light Style</string>
+    
+    <!-- About -->
+    <string name="about_version">Version</string>
+    <string name="about_description">A premium AMOLED Always-On Display customization app inspired by the best AOD systems from Samsung, Pixel, Nothing, and iOS StandBy mode.</string>
+    <string name="about_developer">Developed with ❤️ for Android enthusiasts</string>
+    
+    <!-- Labs -->
+    <string name="labs_experimental">Experimental Features</string>
+    <string name="labs_music_visualizer">Music Visualizer (Coming Soon)</string>
+    <string name="labs_weather_widget">Weather Widget (Coming Soon)</string>
+    <string name="labs_gif_aod">GIF AOD (Coming Soon)</string>
+    <string name="labs_ai_clocks">AI Generated Clocks (Coming Soon)</string>
+    
+    <!-- Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    
+    <!-- Messages -->
+    <string name="msg_settings_saved">Settings saved successfully</string>
+    <string name="msg_permission_required">Permission required for this feature</string>
+    <string name="msg_aod_active">AOD is now active</string>
+    <string name="msg_aod_inactive">AOD has been disabled</string>
+</resources>
